@@ -1,2 +1,0 @@
-# VoiceActing
-Voice Acting Practice
